@@ -1,0 +1,11 @@
+{
+  "name": "lab5-node-runtime",
+  "version": "1.0.0",
+  "description": "Practical 5: Understanding Node.js Runtime",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Vidush",
+  "license": "ISC"
+}
